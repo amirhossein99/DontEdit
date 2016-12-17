@@ -14,7 +14,9 @@
 برای ران کردن تو ترمینال دستورات زیرو وارد کنید:
 
 `cd DontEdit`
+
 `nohup bash DontEdit.sh`
+
 بعدش رباتتون روشن میشه :D 
 
 توسعه دهنده: [°^°AmiR°^°](https://telegram.me/ApiCli)
